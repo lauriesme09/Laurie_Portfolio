@@ -6,7 +6,7 @@ Personal data science portfolio showcasing end-to-end projects, machine learning
 - Se estandarizan y balancean las clases mediante sobremuestreo aleatorio solo para el conjunto de entrenamiento.
 - Se comparan dos modelos: Regresión Logística y Random Forest.
 
-![](https://github.com/lauriesme09/Laurie_Portfolio/blob/main/images/Histogramas%20de%20densidad%20por%20caracter%C3%ADstica.png)
+![](images/Histogramas%20de%20densidad%20por%20caracter%C3%ADstica.png)
 
 
 
