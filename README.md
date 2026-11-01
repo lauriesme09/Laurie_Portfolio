@@ -2,7 +2,7 @@
 Personal data science portfolio showcasing end-to-end projects, machine learning models, statistical analyses, and interactive visualizations.
 
 # [Proyecto 1 : Limpieza de datos y Exploratory Data Analisys - EDA - De un Dataset de ventas](https://github.com/lauriesme09/EDA_Amazon_Sales) 
-- Se aplica una limpieza a los datos para convertir datos str a valores numéricos, con los cuales podremos realizar cálculos y gráficos importantes.
+- Se aplica una limpieza a los datos para convertir datos de texto a valores numéricos, con los cuales podremos realizar cálculos y gráficos importantes.
 - Es necesario tener en cuenta que el proceso no es lineal, después de haber detectado problemas en el proceso de diagnóstico, la limpieza los corrige y el EDA trabaja sobre los datos limpios.
 - Se detectó que los productos caros tengan menos descuento no significa que el precio determine el descuento, sólo que ambos varían juntos.
 
