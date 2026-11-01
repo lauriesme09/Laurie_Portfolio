@@ -6,7 +6,7 @@ Personal data science portfolio showcasing end-to-end projects, machine learning
 - Es necesario tener en cuenta que el proceso no es lineal, después de haber detectado problemas en el proceso de diagnóstico, la limpieza los corrige y el EDA trabaja sobre los datos limpios.
 - Se detectó que los productos caros tengan menos descuento no significa que el precio determine el descuento, sólo que ambos varían juntos.
 
-
+![](images/fig2_categorias.png)
 
 # [Proyecto 2 : Clasificador de partículas](https://github.com/lauriesme09/Magic_Proj)
 - Se construye un clasificador que distingue dos tipos de partículas, gamma y hadrón, a partir de 10 variables numéricas registradas por el telescopio MAGIC (dataset de UCI).
